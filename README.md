@@ -65,7 +65,7 @@ pip3 install pluxtools
 ### Install from source
 
 ```
-git clone https://github.com/yourgroup/pluxtools.git
+git clone https://github.com/DrATedder/pluxtools.git
 cd pluxtools
 pip install -e .
 
