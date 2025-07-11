@@ -4,7 +4,7 @@ setup(
     name='pluxtools',
     version='0.1',
     description='Tools for PLUX image extraction and surface metric analysis',
-    author='Your Name',
+    author='DrATedder',
     packages=find_packages(),
     install_requires=[
         'numpy',
